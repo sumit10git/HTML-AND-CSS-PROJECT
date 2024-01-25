@@ -1,0 +1,25 @@
+body{
+    background-color:#865DFF;
+}
+h1{
+    color: #1d2d75;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem
+}
+p{
+    color: rgb(83, 5, 103);
+    font-size: 2rem;
+    text-align: center;    
+}
+.poster{
+    width: 25;
+    margin-left: 25%;
+    margin-top: 25%;;
+    color:white;
+    font-family: sans-serif;
+}
+.poster{
+    width: fit-content;
+    width: 1;
+}
